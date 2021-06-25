@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>图标.ico</file>
+        <file>333.jpg</file>
+        <file>444.jpeg</file>
+        <file>555.jpeg</file>
+        <file>666.jpg</file>
+        <file>777.jpg</file>
+        <file>888.png</file>
+        <file>999.jpg</file>
+        <file>7895.wav</file>
+        <file>1.jpeg</file>
+        <file>2.png</file>
+        <file>3.png</file>
+    </qresource>
+</RCC>
